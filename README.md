@@ -1,5 +1,4 @@
-# IMU-Sensor
-# Raspberry Pi 5 ROS2 Robot Car(ROS2-HUMBLE + Python3)
+# Yahboom IMU sensor module(6/9/10-axis) AHRS support ROS1 ROS2 for Jetson Raspberry Pi
 ![](https://github.com/YahboomTechnology/IMU-Sensor/blob/main/IMU_Sensor_Module.jpg)
 # Introduction
 Yahboom new IMU sensor modules integrate multi-axis MEMS sensors, serving as the core for motion tracking and attitude measurement. Built with a high-performance 32-bit 72MHz processor, support real-time attitude calculation and dynamic compensation. It can deeply integrate data from gyroscopes, accelerometers, and magnetometers to output precise attitude angles (roll, pitch, and yaw) and 3-axis acceleration information. Whether 6-axis dynamic initialization or 9-axis or 10-axis full-scale sensing with magnetometers and barometers, it can provide stable, reliable, and high-precision motion data solutions for your DIY robots, drones, smart agriculture, and navigation applications.
